@@ -1,8 +1,8 @@
 name: Build and deploy a container to an Azure Web App
 
 env:
-  PROD_AZURE_WEBAPP_NAME: andru-ai-be-voice
-  DEV_AZURE_WEBAPP_NAME: webapp-andru-ai-be-dev-westus2-001
+  PROD_AZURE_WEBAPP_NAME: webapp-example-prod-region-001
+  DEV_AZURE_WEBAPP_NAME: webapp-example-dev-region-001
 
 on:
   push:
